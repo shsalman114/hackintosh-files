@@ -221,10 +221,6 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BgAmCg==</data>
-				<key>Type</key>
-				<string>Laptop</string>
-				<key>Comment</key>
-				<string>To be used usually with HD 4200, HD 4400 and HD 4600</string>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-cursormem</key>
@@ -1003,7 +999,7 @@
 			<key>AppleCpuPmCfgLock</key>
 			<false/>
 			<key>AppleXcpmCfgLock</key>
-			<false/>
+			<true/>
 			<key>AppleXcpmExtraMsrs</key>
 			<false/>
 			<key>AppleXcpmForceBoost</key>
@@ -1013,7 +1009,7 @@
 			<key>CustomSMBIOSGuid</key>
 			<false/>
 			<key>DisableIoMapper</key>
-			<false/>
+			<true/>
 			<key>DisableIoMapperMapping</key>
 			<false/>
 			<key>DisableLinkeditJettison</key>
